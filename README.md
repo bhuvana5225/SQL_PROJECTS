@@ -5,8 +5,8 @@ This project focuses on analyzing the operations of a leading e-commerce retaile
 
 ## Table of Contents
 1. [Tech Stack](#tech-stack)
-2. [Datasets](#datasets-info)
-3. [Loading Datasets Into MySQL](#datasets-loading)
+2. [Datasets](#datasets)
+3. [Loading Datasets Into MySQL](#loading-datasets-into-mysql)
 4. [Queries](#queries)
 
 
